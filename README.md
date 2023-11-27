@@ -4,7 +4,3 @@
 ## 결과보고서
 
 <https://drive.google.com/file/d/1ZYJLDVwPvjYEzDW08dZYBBqZu4OLPJpn/view?usp=sharing>
-
-## 논문
-
-<https://drive.google.com/file/d/1AoUhhr9aqQs_HFeK44eA65JCU_isFep1/view?usp=sharing>
